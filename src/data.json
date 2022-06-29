@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "task": "Game",
+        "complete": true
+    },
+    {
+        "id": 2,
+        "task": "Code",
+        "complete": true
+    },
+    {
+        "id": 3,
+        "task": "Exercise",
+        "complete": false
+    },
+    {
+        "id": 4,
+        "task": "Movies",
+        "complete": true
+    },
+    {
+        "id": 5,
+        "task": "Nap",
+        "complete": false
+    }
+]
